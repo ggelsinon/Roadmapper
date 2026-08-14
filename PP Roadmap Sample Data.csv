@@ -1,0 +1,8 @@
+﻿Type,Title,Product,Start Date,End Date,When,Lane,Legend,Container,Business Unit,Target Release,Percent Complete,Tags,Roadmap Note,Updated
+Current Cycle Start,,,8/1/26,,,,,,,,,,,
+Update Date,,,8/13/26,,,,,,,,,,,
+Release,Mobile App v3.0,Member Experience,9/15/26,,,,,,,,,,,
+Project,Member Dashboard,Member Experience,8/15/26,9/30/26,,Growth,Improve Experience,Increase Engagement,Product,Mobile App v3.0,50,Mobile,,
+Project,Identity Migration,Platform,,,Now,Infrastructure,Reduce Risk,Modernize Platform,Engineering,,25,Platform,,
+Project,AI Recommendations,Member Experience,,,Next,Growth,Improve Experience,Increase Engagement,Product,,0,AI,,
+Roadmap Note,,Member Experience,,,,,,,,,,,Dependent on identity migration,
